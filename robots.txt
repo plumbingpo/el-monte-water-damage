@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elmonterestoration.com/sitemap.xml
